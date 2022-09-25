@@ -7,3 +7,7 @@ Las clases están organizadas de menor complejidad a mayor.
 
 Las primeras dos clases son una introducción a lógica de predicados y arquitectura de 
 computadoras, conceptos comunes para cualquier lenguaje que quieras aprender.
+
+Referencias
+
+- [Jupyter Notebook](https://eprints.ucm.es/id/eprint/48304/1/ManualJupyter.pdf)
